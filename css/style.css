@@ -1,0 +1,10 @@
+body {
+  margin-top: 60px;
+}
+
+blockquote {
+	border-left: 5px solid lightgray;
+	margin-top: 5%;
+	margin-left: 10%;
+}
+
